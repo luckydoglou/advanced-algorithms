@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-SER501 Assignment 3
 Topic: Graph theory, minimal spanning tree, shortest path, greedy algorithms
 Implementation: graph transpose, in & out degree, depth-first-search
             prim's algorithm, bellman-ford algorithm, and dijkstra's algorithm

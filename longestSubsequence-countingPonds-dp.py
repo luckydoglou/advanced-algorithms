@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-SER501 Assignment 4 scaffolding code
-created by: Xiangyu Guo
-
 author: Xiaolou Huang
 """
 

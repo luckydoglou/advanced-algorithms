@@ -1,7 +1,5 @@
 """
-SER501, Assignment 4, part A
-Fall 2019
-Name: Xiaolou Huang
+Author: Xiaolou Huang
 """
 
 
